@@ -1,0 +1,40 @@
+.section1{
+    background-color: gray;
+    width: 100%;
+
+}
+.container{
+    width:100%;
+    padding:50px 0;
+}
+.flex{
+    display:flex;
+    
+    
+    
+}
+.text {
+    width:100%;
+background-color: red;
+color:white;
+}
+.text h1{
+    width: 15%;
+    
+}
+.section2{
+    width: 100%;
+    background-color: black;
+    color: white;
+    
+}
+.margin{
+    margin:2rem 0;
+}
+.inner{
+    background-color: gray;
+    width: 20%;
+    text-align: center;
+}
+
+
